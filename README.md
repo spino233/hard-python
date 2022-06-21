@@ -30,7 +30,7 @@ Ecco un esempio di Tweet:
 "user": "repubblica"
 ```
 
-Ogni lezione include uno o più compiti che possono essere svolti durante la settimana. La consegna e le varie soluzioni si trovano nella sottocartella `compito` di ogni lezione. I compiti vengono sempre corretti nel video della lezione successiva. 
+Ogni lezione include uno o più compiti che possono essere svolti durante la settimana. La consegna e le varie soluzioni si trovano nella sottocartella `compiti` di ogni lezione. I compiti vengono sempre corretti nel video della lezione successiva. 
 
 ## Riassunto lezioni
 
