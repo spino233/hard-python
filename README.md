@@ -1,20 +1,20 @@
 # Hard Python
 
-File e dettagli in merito al corso "Hard Python", presentato su Twitch da [Enkk](twitch.tv/Enkk) e [StudyTme](twitch.tv/StudyTme). Le lezioni sono ricaricate su [questo canale Youtube](https://www.youtube.com/playlist?list=PLMP9hIwoX2DtrBeIDXggVbo49Uxr6ymxT).
+File e dettagli in merito al corso "Hard Python", presentato su Twitch da [Enkk](https://twitch.tv/Enkk) e [StudyTme](https://twitch.tv/StudyTme). Le lezioni sono ricaricate su [questo canale Youtube](https://www.youtube.com/playlist?list=PLMP9hIwoX2DtrBeIDXggVbo49Uxr6ymxT).
 
 Il corso si divide in due parti. La prima è una introduzione rapida al linguaggio Python, mentre la seconda costituisce il progetto vero e proprio e si andranno ad introdurre i primi rudimenti di NLP analizzando una grande collezione di Tweet.
 
 In particolare si vuole analizzare titoli e descrizioni di articoli di giornale pubblicati su Twitter da parte delle maggiori testate giornalistiche italiane in un periodo di tre anni. Le testate considerate sono: 
 
-- @fattoquotidiano 
-- @repubblica 
-- @ilgiornale 
-- @lastampa 
-- @corriere 
-- @open_gol 
-- @avvenire_nei 
-- @ilmessaggeroit 
-- @libero_official
+- [@fattoquotidiano](https://twitter.com/fattoquotidiano)
+- [@repubblica](https://twitter.com/repubblica)
+- [@ilgiornale](https://twitter.com/ilgiornale)
+- [@lastampa](https://twitter.com/lastampa)
+- [@corriere](https://twitter.com/corriere)
+- [@open_gol](https://twitter.com/open_gol)
+- [@avvenire_nei](https://twitter.com/avvenire_nei)
+- [@ilmessaggeroit](https://twitter.com/ilmessaggeroit)
+- [@libero_official](https://twitter.com/libero_official)
 
 Periodo considerato: dal 1 Giugno 2019 al 1 Giugno 2022. 
 
@@ -36,7 +36,7 @@ Ogni lezione include uno o più compiti che possono essere svolti durante la set
 
 ### Lezione 1 
  
-- Installazione di python e pip e Virtual Studio Code.
+- Installazione di python e pip e Visual Studio Code.
 - Stampa
 - Variabili 
 - Tipi di variabili (`int`, `float`, `string`, `boolean`) 
