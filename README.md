@@ -20,7 +20,7 @@ Periodo considerato: dal 1 Giugno 2019 al 1 Giugno 2022.
 
 Ecco un esempio di Tweet:
 
-```
+```json
 "created_at": "2022-06-18 19:25:33",
 "description": "Giornata storica per l'Italia nella rassegna di Antalya. A completare il trionfo, il secondo e terzo gradino del podio per Rossella Fiamingo e Mara Navarri…",
 "hashtags": [],
