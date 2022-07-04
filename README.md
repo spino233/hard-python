@@ -1,6 +1,6 @@
 # Hard Python
 
-File e dettagli in merito al corso "Hard Python", presentato su Twitch da [Enkk](https://twitch.tv/Enkk) e [StudyTme](https://twitch.tv/StudyTme). Le lezioni sono ricaricate su [questo canale Youtube](https://www.youtube.com/playlist?list=PLMP9hIwoX2DtrBeIDXggVbo49Uxr6ymxT).
+File e dettagli in merito al corso "Hard Python", presentato su Twitch da [Enkk](https://twitch.tv/Enkk) e [StudyTme](https://twitch.tv/StudyTme). Le lezioni sono ricaricate su [questa playlist Youtube](https://www.youtube.com/playlist?list=PLMP9hIwoX2DtrBeIDXggVbo49Uxr6ymxT).
 
 Il corso si divide in due parti. La prima è una introduzione rapida al linguaggio Python, mentre la seconda costituisce il progetto vero e proprio e si andranno ad introdurre i primi rudimenti di NLP analizzando una grande collezione di Tweet.
 
@@ -30,11 +30,18 @@ Ecco un esempio di Tweet:
 "user": "repubblica"
 ```
 
-Ogni lezione include uno o più compiti che possono essere svolti durante la settimana. La consegna e le varie soluzioni si trovano nella sottocartella `compiti` di ogni lezione. I compiti vengono sempre corretti nel video della lezione successiva. 
+## File di supporto
+
+Ogni lezione è contenuta in una cartella di questo github e contiene vari file numerati, uno per ogni argomento. Inoltre c'è una cartella `compiti` che contiene la consegna e le varie soluzioni implementate da Giulia (in live, durante la settimana). I compiti vengono sempre corretti nel video della lezione successiva. 
+
+## Sulla lingua
+
+Le lezioni sono in italiano, così come i compiti e i commenti che guidano le varie lezioni. Il codice invece è tendenzialmente in inglese dato che programmare in qualunque altra lingua è una pratica poco suggerita (il codice deve essere potenzialmente comprensibile da tutti). 
+
 
 ## Riassunto lezioni
 
-### Lezione 1 
+### Lezione #1 (26/06/2022)
  
 - Installazione di python e pip e Visual Studio Code.
 - Stampa
@@ -44,4 +51,12 @@ Ogni lezione include uno o più compiti che possono essere svolti durante la set
 - Variabili boolean e espressioni booleane
 - Il costrutto `if`
 - Prendere dati dall'utente: funzione `input`
+
+### Lezione #2 (03/07/2022)
+ 
+- Correzione dei compiti
+- I cicli: while
+- Strutture dati: le liste `[]`
+- I cicli: il for 
+- Strutture dati: i dizionari `{}`
 
