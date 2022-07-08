@@ -56,7 +56,12 @@ Le lezioni sono in italiano, così come i compiti e i commenti che guidano le va
  
 - Correzione dei compiti
 - I cicli: while
-- Strutture dati: le liste `[]`
+- Strutture dati: le liste
 - I cicli: il for 
-- Strutture dati: i dizionari `{}`
+- Strutture dati: i dizionari
 
+### Lezione #3 (10/07/2022)
+ 
+- Altre strutture dati: sets e tuple
+- String manipulation e stampe
+- Le funzioni
