@@ -28,9 +28,9 @@ my_tuple = ("uno", "due", "tre")
 
 # sono utili per stabilire magari tutti i valori legali di un certo input, come ad esempio: 
 
-sex = ("Maschio", "Femmina", "Altro")
-input_sex = input("Sesso:")
-if input_sex not in sex:
+gender = ("Maschio", "Femmina", "Altro")
+input_gender = input("Gender:")
+if input_gender not in gender:
     print("Valore non accettato")
 
 
