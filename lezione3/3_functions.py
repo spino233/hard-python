@@ -16,6 +16,7 @@ def la_mia_funzione(arg1, arg2):
     # faccio cose interessanti coi miei argomenti
     x = "qui c'è il gran risultato della computazione"
     return x # il mio ritorno
+    
 
 # alle funzioni vengono dati dei parametri che finiscono dentro i nostri argomenti,
 # e una volta terminata l'elaborazione restituiscono il valore della computazione

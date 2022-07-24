@@ -65,3 +65,10 @@ Le lezioni sono in italiano, così come i compiti e i commenti che guidano le va
 - Altre strutture dati: sets e tuple
 - String manipulation e stampe
 - Le funzioni
+
+### Lezione #4 (24/07/2022)
+
+- Import e pip 
+- List comprehension
+- Files e json
+- Esercizi

@@ -23,12 +23,14 @@ my_set.remove("uno")
 
 
 # Le tuple sono invece insieme di elementi ordinati e sono immutabili. Si dichiarano così:
-
+# Quando si dice "ordinato" si intende che cambiando l'ordine degli elementi si ha una tupla different.
+set = {5, 2, 3}
 my_tuple = ("uno", "due", "tre")
+l = [1, 2, 3]
 
 # sono utili per stabilire magari tutti i valori legali di un certo input, come ad esempio: 
 
-gender = ("Maschio", "Femmina", "Altro")
+gender = ("Maschio", "Femmina", "Altro") 
 input_gender = input("Gender:")
 if input_gender not in gender:
     print("Valore non accettato")
